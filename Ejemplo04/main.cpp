@@ -5,13 +5,11 @@ using namespace std;
 void sube(int* x)
 {
 	(*x)++;
-	return;
 }
 
 void mas(int& x)
 {
 	x++;
-	return;
 }
 
 int main(int argc, char **argv)
